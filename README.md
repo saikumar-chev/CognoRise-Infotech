@@ -1,4 +1,4 @@
-Python Development Internship at Cognorise Infotech
+<head>Python Development Internship at Cognorise Infotech</head>
 Welcome to my Python Development Internship Repository!
 Hi there! I'm excited to share the projects I've been working on during my internship at Cognorise Infotech. This repository contains the code for three Python projects I developed:
 
